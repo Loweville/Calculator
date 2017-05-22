@@ -1,0 +1,27 @@
+c:\users\jensen\documents\visual studio 2013\Projects\Calculator\Calculator\bin\Debug\Calculator.exe.config
+c:\users\jensen\documents\visual studio 2013\Projects\Calculator\Calculator\bin\Debug\Calculator.exe
+c:\users\jensen\documents\visual studio 2013\Projects\Calculator\Calculator\bin\Debug\Calculator.pdb
+c:\users\jensen\documents\visual studio 2013\Projects\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+c:\users\jensen\documents\visual studio 2013\Projects\Calculator\Calculator\obj\Debug\Calculator.FrmCalc.resources
+c:\users\jensen\documents\visual studio 2013\Projects\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+c:\users\jensen\documents\visual studio 2013\Projects\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+c:\users\jensen\documents\visual studio 2013\Projects\Calculator\Calculator\obj\Debug\Calculator.exe
+c:\users\jensen\documents\visual studio 2013\Projects\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\Jensen Lowe\SkyDrive (2)\Documents\My Projects\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Jensen Lowe\SkyDrive (2)\Documents\My Projects\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\Jensen Lowe\SkyDrive (2)\Documents\My Projects\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\Jensen Lowe\SkyDrive (2)\Documents\My Projects\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\Jensen Lowe\SkyDrive (2)\Documents\My Projects\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Jensen Lowe\SkyDrive (2)\Documents\My Projects\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Jensen Lowe\SkyDrive (2)\Documents\My Projects\Calculator\Calculator\obj\Debug\Calculator.FrmCalc.resources
+C:\Users\Jensen Lowe\SkyDrive (2)\Documents\My Projects\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Jensen Lowe\SkyDrive (2)\Documents\My Projects\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+F:\Documents\My Projects\Calculator\Calculator\bin\Debug\Calculator.exe.config
+F:\Documents\My Projects\Calculator\Calculator\obj\Debug\Calculator.exe
+F:\Documents\My Projects\Calculator\Calculator\obj\Debug\Calculator.pdb
+F:\Documents\My Projects\Calculator\Calculator\bin\Debug\Calculator.exe
+F:\Documents\My Projects\Calculator\Calculator\bin\Debug\Calculator.pdb
+F:\Documents\My Projects\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+F:\Documents\My Projects\Calculator\Calculator\obj\Debug\Calculator.FrmCalc.resources
+F:\Documents\My Projects\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+F:\Documents\My Projects\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
